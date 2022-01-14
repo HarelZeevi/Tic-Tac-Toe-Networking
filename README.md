@@ -1,5 +1,5 @@
 # Tic-Tac-Toe-Networking
-A Tic-Tac-Toe Game which built using Python and the  Socket library.
+A Tic-Tac-Toe Game programmed with Python and the  Socket library.
 
 # User guide:
 1. Open server.py file
